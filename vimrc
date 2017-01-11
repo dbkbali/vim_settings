@@ -68,4 +68,6 @@ nmap <D-]> >>
 vmap <D-[> <gv
 vmap <D-]> >gv
 
+"Mappings for switching to a maximized window
+"
 
